@@ -1,0 +1,28 @@
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+#darthvader{
+    font-size: 30px;
+}
+#luke{
+    font-style: italic;
+}
+
+#soldado{
+    border: solid 10px black;
+    letter-spacing: 5px;
+
+}
+
+.apoyo{
+    text-align:center;
+}
+
+#nave {
+    text-transform: uppercase;
+}
